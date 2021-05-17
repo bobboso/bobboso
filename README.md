@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bobboso
-- 👀 I’m interested in reliability and automation.
+- 👀 I’m interested in system reliability and automation.
 - 🌱 I’m currently learning resource templates
 - 💞️ I’m looking to collaborate on automating the deployment and configuration of VM and container.
 - 📫 How to reach me: roberto.bertucci@a2d.it
